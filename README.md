@@ -1,4 +1,1 @@
-- Wassup my dudes I'm idkman1
-- Python is my game
-- I am not a police officer
-- I do the zaza every day
+This is a test for my global converter that i am making
